@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Huway_czn copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>Huway_czn.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>04236B601BFF17460064DDE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>043FDF101BFDBBD70025E678</key>
 		<dict>
 			<key>primary</key>
